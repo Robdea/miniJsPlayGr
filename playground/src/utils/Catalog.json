@@ -1,0 +1,24 @@
+[
+    {
+        "label": "deprecated",
+        "details": "saf3"
+    },
+    {
+        "label": "setTimeout",
+        "info": "sadosadk"
+    },
+    {
+        "label": "forEach",
+        "apply": "forEach(element => {})"
+    },
+    {
+        "label": "map",
+        "type": "method",
+        "info": "Detailed information about the `map` method.",
+        "apply": "array.map()"
+
+    },
+    {
+        "label": "filter"
+    }
+]
